@@ -1,0 +1,396 @@
+{
+  "statuId": 200,
+  "entityId": 0,
+  "successMessages": ["Success"],
+  "warningMessages": [],
+  "errorMessages": [],
+  "entity": [
+    {
+      "konsimentoNo": "ISB1228884",
+      "etd": "2023-02-19T00:00:00",
+      "eta": "2023-03-15T00:00:00",
+      "atd": "2023-02-19T00:00:00",
+      "ata": null,
+      "gemiSeferBilgileri": {
+        "gemiSeferi": "08MDQE1MA",  +
+        "gemiAdi": "XIN LOS ANGELES",  +
+        "hatAdi": "CMA",+
+        "bosaltmaLimani": "AL AQABAH",+
+        "aktarmaLimani": null
+      },
+      "konteynerlar": [
+        {
+          "konteynerNo": "TCLU8648385",   //
+          "konteynerBoyutTip": "40HC",    // 
+          "bosDonusTarihi": "2023-03-27T00:00:00",  //
+          "gondericiFirma": "IRAK DIŞ TİCARET LTD.ŞTİ.",  //
+          "araKonsimentoNo": null,
+          "yukTakipHareket": [
+            {
+              "statu": "Departure From Port",        
+              "hareketTarihi": "2023-02-19T00:00:00",   
+              "latitude": null,
+              "longitude": null,
+              "gemi": "XIN LOS ANGELES",
+              "limanLokasyon": "IZMIT (GEBZE)"   
+            }
+            ,
+            {
+              "statu": "Departure From Port",
+              "hareketTarihi": "2023-02-19T00:00:00",
+              "latitude": null,
+              "longitude": null,
+              "gemi": "XIN LOS ANGELES",
+              "limanLokasyon": "IZMIT (GEBZE)"
+            }
+            ,
+            {
+              "statu": "Departure From Port",
+              "hareketTarihi": "2023-02-19T00:00:00",
+              "latitude": null,
+              "longitude": null,
+              "gemi": "XIN LOS ANGELES",
+              "limanLokasyon": "IZMIT (GEBZE)"
+            }
+          ]
+        },
+        {
+          "konteynerNo": "FCIU9349945",
+          "konteynerBoyutTip": "40HC",
+          "bosDonusTarihi": "2023-03-22T00:00:00",
+          "gondericiFirma": "IRAK DIŞ TİCARET LTD.ŞTİ.",
+          "araKonsimentoNo": null,
+          "yukTakipHareket": [
+            {
+              "statu": "Departure From Port",
+              "hareketTarihi": "2023-02-19T00:00:00",
+              "latitude": null,
+              "longitude": null,
+              "gemi": "XIN LOS ANGELES",
+              "limanLokasyon": "IZMIT (GEBZE)"
+            },
+            {
+              "statu": "Departure From Port",
+              "hareketTarihi": "2023-02-19T00:00:00",
+              "latitude": null,
+              "longitude": null,
+              "gemi": "XIN LOS ANGELES",
+              "limanLokasyon": "IZMIT (GEBZE)"
+            },
+            {
+              "statu": "Departure From Port",
+              "hareketTarihi": "2023-02-19T00:00:00",
+              "latitude": null,
+              "longitude": null,
+              "gemi": "XIN LOS ANGELES",
+              "limanLokasyon": "IZMIT (GEBZE)"
+            }
+          ]
+        },
+        {
+          "konteynerNo": "TCNU5375900",
+          "konteynerBoyutTip": "40HC",
+          "bosDonusTarihi": "2023-03-25T00:00:00",
+          "gondericiFirma": "IRAK DIŞ TİCARET LTD.ŞTİ.",
+          "araKonsimentoNo": null,
+          "yukTakipHareket": [
+            {
+              "statu": "Departure From Port",
+              "hareketTarihi": "2023-02-19T00:00:00",
+              "latitude": null,
+              "longitude": null,
+              "gemi": "XIN LOS ANGELES",
+              "limanLokasyon": "IZMIT (GEBZE)"
+            },
+            {
+              "statu": "Departure From Port",
+              "hareketTarihi": "2023-02-19T00:00:00",
+              "latitude": null,
+              "longitude": null,
+              "gemi": "XIN LOS ANGELES",
+              "limanLokasyon": "IZMIT (GEBZE)"
+            },
+            {
+              "statu": "Departure From Port",
+              "hareketTarihi": "2023-02-19T00:00:00",
+              "latitude": null,
+              "longitude": null,
+              "gemi": "XIN LOS ANGELES",
+              "limanLokasyon": "IZMIT (GEBZE)"
+            }
+          ]
+        },
+        {
+          "konteynerNo": "SEKU6036637",
+          "konteynerBoyutTip": "40HC",
+          "bosDonusTarihi": "2023-03-25T00:00:00",
+          "gondericiFirma": "IRAK DIŞ TİCARET LTD.ŞTİ.",
+          "araKonsimentoNo": null,
+          "yukTakipHareket": [
+            {
+              "statu": "Departure From Port",
+              "hareketTarihi": "2023-02-19T00:00:00",
+              "latitude": null,
+              "longitude": null,
+              "gemi": "XIN LOS ANGELES",
+              "limanLokasyon": "IZMIT (GEBZE)"
+            },
+            {
+              "statu": "Departure From Port",
+              "hareketTarihi": "2023-02-19T00:00:00",
+              "latitude": null,
+              "longitude": null,
+              "gemi": "XIN LOS ANGELES",
+              "limanLokasyon": "IZMIT (GEBZE)"
+            },
+            {
+              "statu": "Departure From Port",
+              "hareketTarihi": "2023-02-19T00:00:00",
+              "latitude": null,
+              "longitude": null,
+              "gemi": "XIN LOS ANGELES",
+              "limanLokasyon": "IZMIT (GEBZE)"
+            }
+          ]
+        }
+      ],
+
+
+      "araclar": [
+        {
+          "aracPlakaNo": "35BCP643",
+          "irslaiyeBelgeNo": "A488220",
+          "irsaliyeTarihi": "2023-02-01T12:48:30",
+          "konteynerMarkaNo": "SEKU6036637",
+          "aracStateBilgiler": [
+            {
+              "state": "İşe Başlama Zamanı",
+              "stateDate": "2023-02-01T10:47:15",
+              "latitude": null,
+              "longitude": null
+            },
+            {
+              "state": "İrsaliye Barkod Okutma",
+              "stateDate": "2023-02-01T12:48:54",
+              "latitude": null,
+              "longitude": null
+            },
+            {
+              "state": "Fabrika Giriş Zamanı",
+              "stateDate": "2023-02-01T14:15:59",
+              "latitude": null,
+              "longitude": null
+            },
+            {
+              "state": "Fabrika Çıkış Zamanı",
+              "stateDate": "2023-02-01T17:59:27",
+              "latitude": null,
+              "longitude": null
+            },
+            {
+              "state": "İşi Bitirme Zamanı",
+              "stateDate": "2023-02-01T20:30:58",
+              "latitude": null,
+              "longitude": null
+            }
+          ]
+        },
+        {
+          "aracPlakaNo": "35BKE481",
+          "irslaiyeBelgeNo": "A487256",
+          "irsaliyeTarihi": "2023-02-01T10:48:09",
+          "konteynerMarkaNo": "TCNU5375900",
+          "aracStateBilgiler": []
+        },
+        {
+          "aracPlakaNo": "35BCJ650",
+          "irslaiyeBelgeNo": "A550220",
+          "irsaliyeTarihi": "2023-02-01T08:55:37",
+          "konteynerMarkaNo": "FCIU9349945",
+          "aracStateBilgiler": []
+        },
+        {
+          "aracPlakaNo": "35AJZ417",
+          "irslaiyeBelgeNo": "A488963",
+          "irsaliyeTarihi": "2023-01-31T17:23:55",
+          "konteynerMarkaNo": "TCLU8648385",
+          "aracStateBilgiler": []
+        }
+      ],
+
+
+
+      "ucakAcenteler": [
+        {
+          "konsimentoNo": "ISB1228884",
+          "flightNumber": null,
+          "statu": null,
+          "statuTime": null,
+          "stateDescription": null
+        },
+        {
+          "konsimentoNo": "ISB1228884",
+          "flightNumber": null,
+          "statu": null,
+          "statuTime": null,
+          "stateDescription": null
+        },
+        {
+          "konsimentoNo": "ISB1228884",
+          "flightNumber": null,
+          "statu": null,
+          "statuTime": null,
+          "stateDescription": null
+        },
+        {
+          "konsimentoNo": "ISB1228884",
+          "flightNumber": null,
+          "statu": null,
+          "statuTime": null,
+          "stateDescription": null
+        }
+      ]
+    },
+
+    ////////////////////************************************************//////////////////////////////////////
+    {
+      "konsimentoNo": "ISB1228884",
+      "etd": null,
+      "eta": null,
+      "atd": null,
+      "ata": null,
+      "gemiSeferBilgileri": {
+        "gemiSeferi": null,
+        "gemiAdi": null,
+        "hatAdi": "CMA",
+        "bosaltmaLimani": "EVYAP",
+        "aktarmaLimani": null
+      },
+      "konteynerlar": [
+        {
+          "konteynerNo": "TCLU8648385",
+          "konteynerBoyutTip": "40HC",
+          "bosDonusTarihi": "2023-03-27T00:00:00",
+          "gondericiFirma": "IRAK DIŞ TİCARET LTD.ŞTİ.",
+          "araKonsimentoNo": null,
+          "yukTakipHareket": []
+        },
+        {
+          "konteynerNo": "FCIU9349945",
+          "konteynerBoyutTip": "40HC",
+          "bosDonusTarihi": "2023-03-22T00:00:00",
+          "gondericiFirma": "IRAK DIŞ TİCARET LTD.ŞTİ.",
+          "araKonsimentoNo": null,
+          "yukTakipHareket": []
+        },
+        {
+          "konteynerNo": "TCNU5375900",
+          "konteynerBoyutTip": "40HC",
+          "bosDonusTarihi": "2023-03-25T00:00:00",
+          "gondericiFirma": "IRAK DIŞ TİCARET LTD.ŞTİ.",
+          "araKonsimentoNo": null,
+          "yukTakipHareket": []
+        },
+        {
+          "konteynerNo": "SEKU6036637",
+          "konteynerBoyutTip": "40HC",
+          "bosDonusTarihi": "2023-03-25T00:00:00",
+          "gondericiFirma": "IRAK DIŞ TİCARET LTD.ŞTİ.",
+          "araKonsimentoNo": null,
+          "yukTakipHareket": []
+        }
+      ],
+      "araclar": [
+        {
+          "aracPlakaNo": "35BCP643",
+          "irslaiyeBelgeNo": "A488220",
+          "irsaliyeTarihi": "2023-02-01T12:48:30",
+          "konteynerMarkaNo": "SEKU6036637",
+          "aracStateBilgiler": [
+            {
+              "state": "İşe Başlama Zamanı",
+              "stateDate": "2023-02-01T10:47:15",
+              "latitude": null,
+              "longitude": null
+            },
+            {
+              "state": "İrsaliye Barkod Okutma",
+              "stateDate": "2023-02-01T12:48:54",
+              "latitude": null,
+              "longitude": null
+            },
+            {
+              "state": "Fabrika Giriş Zamanı",
+              "stateDate": "2023-02-01T14:15:59",
+              "latitude": null,
+              "longitude": null
+            },
+            {
+              "state": "Fabrika Çıkış Zamanı",
+              "stateDate": "2023-02-01T17:59:27",
+              "latitude": null,
+              "longitude": null
+            },
+            {
+              "state": "İşi Bitirme Zamanı",
+              "stateDate": "2023-02-01T20:30:58",
+              "latitude": null,
+              "longitude": null
+            }
+          ]
+        },
+        {
+          "aracPlakaNo": "35BKE481",
+          "irslaiyeBelgeNo": "A487256",
+          "irsaliyeTarihi": "2023-02-01T10:48:09",
+          "konteynerMarkaNo": "TCNU5375900",
+          "aracStateBilgiler": []
+        },
+        {
+          "aracPlakaNo": "35BCJ650",
+          "irslaiyeBelgeNo": "A550220",
+          "irsaliyeTarihi": "2023-02-01T08:55:37",
+          "konteynerMarkaNo": "FCIU9349945",
+          "aracStateBilgiler": []
+        },
+        {
+          "aracPlakaNo": "35AJZ417",
+          "irslaiyeBelgeNo": "A488963",
+          "irsaliyeTarihi": "2023-01-31T17:23:55",
+          "konteynerMarkaNo": "TCLU8648385",
+          "aracStateBilgiler": []
+        }
+      ],
+      "ucakAcenteler": [
+        {
+          "konsimentoNo": "ISB1228884",
+          "flightNumber": null,
+          "statu": null,
+          "statuTime": null,
+          "stateDescription": null
+        },
+        {
+          "konsimentoNo": "ISB1228884",
+          "flightNumber": null,
+          "statu": null,
+          "statuTime": null,
+          "stateDescription": null
+        },
+        {
+          "konsimentoNo": "ISB1228884",
+          "flightNumber": null,
+          "statu": null,
+          "statuTime": null,
+          "stateDescription": null
+        },
+        {
+          "konsimentoNo": "ISB1228884",
+          "flightNumber": null,
+          "statu": null,
+          "statuTime": null,
+          "stateDescription": null
+        }
+      ]
+    }
+  ]
+}
